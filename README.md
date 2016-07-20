@@ -1,1 +1,1 @@
-#q
+Quick PHP exercise
